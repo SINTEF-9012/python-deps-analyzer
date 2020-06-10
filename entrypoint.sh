@@ -9,7 +9,7 @@ while IFS= read -r TAG; do
   git checkout $TAG >/dev/null 2>&1
   LOC=`cloc -q . | grep ^Python | grep -oP "[0-9]+" | tail -n 1`
 
-  pip install $2==$3 >/dev/null 2>&1 || { echo ${DIR},${TAG},${2},${3},"failed pip install ${2}==${3}"; continue; }
+  pip install $2==$3 >/dev/null 2>&1 || { echo ${DIR},${TAG},${2},${3},"failed pip install ${2}==${3}"; break; } #no point in trying all tags if we cannot even install that version of the lib
   pip install . >/dev/null 2>&1  || { echo ${DIR},${TAG},${2},${3},"failed pip install . "; continue; }
   pip install pytest >/dev/null 2>&1  || { echo ${DIR},${TAG},${2},${3},"failed pip install pytest"; continue; }
   pip install coverage >/dev/null 2>&1  || { echo ${DIR},${TAG},${2},${3},"failed pip install coverage"; continue; }
