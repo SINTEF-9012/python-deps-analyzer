@@ -1,0 +1,46 @@
+451,oslo.config,"Oslo Configuration API",https://docs.openstack.org/oslo.config/latest/,22
+550,keystoneauth1,"Authentication Library for OpenStack Identity",https://docs.openstack.org/keystoneauth/latest/,17
+497,oslo.serialization,"Oslo Serialization library",https://docs.openstack.org/oslo.serialization/latest/,16
+419,reno,"RElease NOtes manager",https://docs.openstack.org/reno/latest/,14
+426,stestr,"A parallel Python test runner built around subunit",http://stestr.readthedocs.io/en/latest/,13
+90,pre-commit,"A framework for managing and maintaining multi-language pre-commit hooks.",https://github.com/pre-commit/pre-commit,11
+430,cliff,"Command Line Interface Formulation Framework",https://docs.openstack.org/cliff/latest/,9
+273,watchdog,"Filesystem events monitoring",http://github.com/gorakhargosh/watchdog,7
+480,bandit,"Security oriented static analyser for python code.",https://bandit.readthedocs.io/en/latest/,7
+584,coveralls,"Show coverage stats online via coveralls.io",http://github.com/coveralls-clients/coveralls-python,6
+1077,os-client-config,"OpenStack Client Configuation Library",https://docs.openstack.org/os-client-config/latest,6
+660,celery,"Distributed Task Queue.",http://celeryproject.org,5
+700,markdown,"Python implementation of Markdown.",https://Python-Markdown.github.io/,5
+438,codecov,"Hosted coverage reports for GitHub, Bitbucket and Gitlab",https://github.com/codecov/codecov-python,4
+1076,openstacksdk,"An SDK for building applications to work with OpenStack",https://docs.openstack.org/openstacksdk/,4
+552,oslo.messaging,"Oslo Messaging API",https://docs.openstack.org/oslo.messaging/latest/,3
+567,kombu,"Messaging library for Python.",https://kombu.readthedocs.io,3
+670,python-coveralls,"Python interface to coveralls.io API",Unknown,3
+762,elasticsearch,"Python client for Elasticsearch",https://github.com/elastic/elasticsearch-py,3
+1182,mkdocs,"Project documentation with Markdown.",https://www.mkdocs.org,3
+1197,keras,"Deep Learning for humans",https://github.com/keras-team/keras,3
+247,devpi-server,"devpi-server: reliable private and pypi.org caching server",http://doc.devpi.net,2
+406,pytype,"Python type inferencer",https://google.github.io/pytype,2
+487,gnocchi,"Metric as a Service",http://gnocchi.xyz,2
+502,oslo.policy,"Oslo Policy library",https://docs.openstack.org/oslo.policy/latest/,2
+514,gabbi,"Declarative HTTP testing library",https://github.com/cdent/gabbi,2
+582,tchannel,"Network multiplexing and framing protocol for RPC",https://github.com/uber/tchannel-python,2
+791,pyaml,"PyYAML-based module to produce pretty and readable YAML-serialized data",https://github.com/mk-fg/pretty-yaml,2
+831,moto,"A library that allows your python tests to easily mock out the boto library",https://github.com/spulec/moto,2
+848,cfn-lint,"Checks CloudFormation templates for practices and behaviour that could potentially be improved",https://github.com/aws-cloudformation/cfn-python-lint,2
+851,networkx,"Python package for creating and manipulating graphs and networks",http://networkx.github.io/,2
+97,aspy.yaml,"A few extensions to pyyaml.",https://github.com/asottile/aspy.yaml,1
+437,sphinx-autobuild,"Watch a Sphinx directory and rebuild the documentation when a change is detected. Also includes a livereload enabled web server.",https://github.com/GaretJax/sphinx-autobuild,1
+624,dateparser,"Date parsing library designed to parse dates from HTML pages",https://github.com/scrapinghub/dateparser,1
+630,python-translate,"Non-gettext translations for python.",https://github.com/adamziel/python_translate,1
+663,sentry,Error,Error,1
+693,cookiecutter,"A command-line utility that creates projects from project templates, e.g. creating a Python package project from a Python package project template.",https://github.com/cookiecutter/cookiecutter,1
+850,aws-sam-translator,"AWS SAM Translator is a library that transform SAM templates into AWS CloudFormation templates",https://github.com/awslabs/serverless-application-model,1
+899,ua-parser,"Python port of Browserscope's user agent parser",https://github.com/ua-parser/uap-python,1
+1079,munch,"A dot-accessible dictionary (a la JavaScript objects)",https://github.com/Infinidat/munch,1
+1095,python-heatclient,"OpenStack Orchestration API Client Library",https://docs.openstack.org/python-heatclient/latest,1
+1096,python-octaviaclient,"Octavia client for OpenStack Load Balancing",https://docs.openstack.org/python-octaviaclient/latest/,1
+1105,tablib,"Format agnostic tabular data library (XLS, JSON, YAML, CSV)",https://tablib.readthedocs.io,1
+1116,openstack-doc-tools,"Tools for OpenStack Documentation",https://docs.openstack.org/openstack-doc-tools/latest/,1
+1125,os-api-ref,"Sphinx Extensions to support API reference sites in OpenStack",https://docs.openstack.org/os-api-ref/latest/,1
+1181,pydoc-markdown,"Create Python API documentation in Markdown format",https://github.com/NiklasRosenstein/pydoc-markdown,1

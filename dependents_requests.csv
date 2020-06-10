@@ -1,0 +1,95 @@
+1,sphinx,"Python documentation generator",http://sphinx-doc.org/,178
+19,pytest,"pytest: simple powerful testing with Python",https://docs.pytest.org/en/latest/,166
+111,jaraco.packaging,"tools to supplement packaging Python releases",https://github.com/jaraco/jaraco.packaging,29
+451,oslo.config,"Oslo Configuration API",https://docs.openstack.org/oslo.config/latest/,22
+550,keystoneauth1,"Authentication Library for OpenStack Identity",https://docs.openstack.org/keystoneauth/latest/,17
+242,twine,"Collection of utilities for publishing packages on PyPI",https://twine.readthedocs.io/,15
+418,openstackdocstheme,"OpenStack Docs Theme",https://docs.openstack.org/openstackdocstheme/latest/,12
+548,python-keystoneclient,"Client Library for OpenStack Identity",https://docs.openstack.org/python-keystoneclient/latest/,11
+523,botocore,"Low-level, data-driven core of boto 3.",https://github.com/boto/botocore,9
+424,oslosphinx,"OpenStack Sphinx Extensions and Theme",http://docs.openstack.org/developer/oslosphinx,7
+654,gevent,"Coroutine-based network library",http://www.gevent.org/,7
+478,pifpaf,"Suite of tools and fixtures to manage daemons for testing",https://github.com/jd/pifpaf,6
+584,coveralls,"Show coverage stats online via coveralls.io",http://github.com/coveralls-clients/coveralls-python,6
+1099,osc-lib,"OpenStackClient Library",https://docs.openstack.org/osc-lib/latest/,6
+1237,ipython,"IPython: Productive Interactive Computing",https://ipython.org,6
+438,codecov,"Hosted coverage reports for GitHub, Bitbucket and Gitlab",https://github.com/codecov/codecov-python,4
+522,wsgi-intercept,"wsgi_intercept installs a WSGI application in place of a real URI for testing.",http://pypi.python.org/pypi/wsgi_intercept,4
+776,requests-oauthlib,"OAuthlib authentication support for Requests.",https://github.com/requests/requests-oauthlib,4
+942,google-api-core,"Google API client core library",https://github.com/GoogleCloudPlatform/google-cloud-python,4
+949,google-gax,"Google API Extensions",https://github.com/googleapis/gax-python,4
+1076,openstacksdk,"An SDK for building applications to work with OpenStack",https://docs.openstack.org/openstacksdk/,4
+1245,notebook,"A web-based notebook environment for interactive computing",http://jupyter.org,4
+251,devpi-common,"utilities jointly used by devpi-server and devpi-client",https://github.com/devpi/devpi,3
+543,requests-mock,"Mock out responses from the requests package",https://requests-mock.readthedocs.io/,3
+607,treq,"High-level Twisted HTTP Client API",https://github.com/twisted/treq,3
+612,raven,"Raven is a client for Sentry (https://getsentry.com)",https://github.com/getsentry/raven-python,3
+670,python-coveralls,"Python interface to coveralls.io API",Unknown,3
+760,python-consul,"Python client for Consul (http://www.consul.io/)",https://github.com/cablehead/python-consul,3
+762,elasticsearch,"Python client for Elasticsearch",https://github.com/elastic/elasticsearch-py,3
+775,msrest,"AutoRest swagger generator Python client runtime.",https://github.com/Azure/msrest-for-python,3
+838,httpretty,"HTTP client mock for Python",https://httpretty.readthedocs.io,3
+846,responses,"A utility library for mocking out the `requests` Python library.",https://github.com/getsentry/responses,3
+939,google-cloud-core,"Google Cloud API client core library",https://github.com/GoogleCloudPlatform/google-cloud-python,3
+1098,python-openstackclient,"OpenStack Command-line Client",https://docs.openstack.org/python-openstackclient/latest/,3
+1197,keras,"Deep Learning for humans",https://github.com/keras-team/keras,3
+247,devpi-server,"devpi-server: reliable private and pypi.org caching server",http://doc.devpi.net,2
+373,zest.releaser,"Software releasing made easy and repeatable",https://zestreleaser.readthedocs.io,2
+396,vistir,"Miscellaneous utilities for dealing with filesystems, paths, projects, subprocesses, and more.",https://github.com/sarugaku/vistir,2
+487,gnocchi,"Metric as a Service",http://gnocchi.xyz,2
+500,tooz,"Coordination library for distributed systems.",https://docs.openstack.org/tooz/latest/,2
+501,python-swiftclient,"OpenStack Object Storage API Client Library",https://docs.openstack.org/python-swiftclient/latest/,2
+502,oslo.policy,"Oslo Policy library",https://docs.openstack.org/oslo.policy/latest/,2
+507,keystonemiddleware,"Middleware for OpenStack Identity",https://docs.openstack.org/keystonemiddleware/latest/,2
+558,etcd3gw,"A python client for etcd3 grpc-gateway v3 API",https://github.com/dims/etcd3-gateway,2
+755,softlayer-messaging,"SoftLayer Message Queue Client",http://sldn.softlayer.com/reference/messagequeueapi,2
+766,azure-storage-common,"Microsoft Azure Storage Common Client Library for Python",https://github.com/Azure/azure-storage-python,2
+831,moto,"A library that allows your python tests to easily mock out the boto library",https://github.com/spulec/moto,2
+843,docker,"A Python library for the Docker Engine API.",https://github.com/docker/docker-py,2
+848,cfn-lint,"Checks CloudFormation templates for practices and behaviour that could potentially be improved",https://github.com/aws-cloudformation/cfn-python-lint,2
+936,google-cloud-storage,"Google Cloud Storage API client library",https://github.com/googleapis/python-storage,2
+937,betamax,"A VCR imitation for python-requests",https://github.com/sigmavirus24/betamax,2
+1100,python-neutronclient,"CLI and Client Library for OpenStack Networking",https://docs.openstack.org/python-neutronclient/latest/,2
+1175,requests-toolbelt,"A utility belt for advanced users of python-requests",https://toolbelt.readthedocs.org,2
+1187,nltk,"Natural Language Toolkit",http://nltk.org/,2
+246,devpi-client,"devpi upload/install/... workflow commands for Python developers",https://github.com/devpi/devpi,1
+391,requirementslib,"A tool for converting between pip-style and pipfile requirements.",https://github.com/sarugaku/requirementslib,1
+440,rollbar,"Easy and powerful exception tracking with Rollbar. Send messages and exceptions with arbitrary context, get back aggregates, and debug production issues quickly.",http://github.com/rollbar/pyrollbar,1
+486,aodh,"OpenStack Telemetry Alarming",https://docs.openstack.org/aodh/latest/,1
+512,influxdb,"InfluxDB client",https://github.com/influxdb/influxdb-python,1
+663,sentry,Error,Error,1
+684,requests-async,"async-await support for `requests`.",https://github.com/encode/requests-async,1
+693,cookiecutter,"A command-line utility that creates projects from project templates, e.g. creating a Python package project from a Python package project template.",https://github.com/cookiecutter/cookiecutter,1
+708,requests-unixsocket,"Use requests to talk HTTP via a UNIX domain socket",https://github.com/msabramo/requests-unixsocket,1
+750,couchbase,"Python Client for Couchbase",https://github.com/couchbase/couchbase-python-client,1
+761,pycouchdb,"Modern pure python CouchDB Client.",https://github.com/histrio/py-couchdb,1
+767,azure-storage,"Microsoft Azure Storage Client Library for Python",https://github.com/Azure/azure-storage-python,1
+768,pydocumentdb,"Azure DocumentDB Python SDK",https://github.com/Azure/azure-documentdb-python,1
+769,pyarango,"An easy to use python driver for ArangoDB with built-in validation",https://github.com/tariqdaouda/pyArango,1
+785,adal,"The ADAL for Python library makes it easy for python application to authenticate to Azure Active Directory (AAD) in order to access AAD protected web resources.",https://github.com/AzureAD/azure-activedirectory-library-for-python,1
+844,aws-xray-sdk,"The AWS X-Ray SDK for Python (the SDK) enables Python developers to record and emit information from within their applications to the AWS X-Ray service.",https://github.com/aws/aws-xray-sdk-python,1
+850,aws-sam-translator,"AWS SAM Translator is a library that transform SAM templates into AWS CloudFormation templates",https://github.com/awslabs/serverless-application-model,1
+910,percy,"Python client library for visual regression testing with Percy (https://percy.io).",https://github.com/percy/python-percy-client,1
+915,datadog,"The Datadog Python library",https://www.datadoghq.com,1
+925,querystring-parser,"QueryString parser for Python/Django that correctly handles nested dictionaries",https://github.com/bernii/querystring-parser,1
+941,google-resumable-media,"Utilities for Google Media Downloads and Resumable Uploads",https://github.com/GoogleCloudPlatform/google-resumable-media-python,1
+953,beam,"A lightweight wrapper for the SolusVM client API.",https://github.com/gebn/beam,1
+1050,azure-servicebus,"Microsoft Azure Service Bus Client Library for Python",https://github.com/Azure/azure-sdk-for-python,1
+1051,azure-storage-queue,"Microsoft Azure Azure Queue Storage Client Library for Python",https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/storage/azure-storage-queue,1
+1052,azure-core,"Microsoft Azure Core Library for Python",https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/core/azure-core,1
+1054,requests-kerberos,"A Kerberos authentication handler for python-requests",https://github.com/requests/requests-kerberos,1
+1089,python-ceilometerclient,"OpenStack Telemetry API Client Library",http://docs.openstack.org/developer/python-ceilometerclient,1
+1094,python-zaqarclient,"Client Library for OpenStack Zaqar Messaging API",https://docs.openstack.org/python-zaqarclient/latest/,1
+1095,python-heatclient,"OpenStack Orchestration API Client Library",https://docs.openstack.org/python-heatclient/latest,1
+1096,python-octaviaclient,"Octavia client for OpenStack Load Balancing",https://docs.openstack.org/python-octaviaclient/latest/,1
+1101,python-glanceclient,"OpenStack Image API Client Library",https://docs.openstack.org/python-glanceclient/latest/,1
+1102,python-novaclient,"Client library for OpenStack Compute API",https://docs.openstack.org/python-novaclient/latest,1
+1103,python-cinderclient,"OpenStack Block Storage API Client Library",https://docs.openstack.org/python-cinderclient/latest/,1
+1138,yarg,"A semi hard Cornish cheese, also queries PyPI (PyPI client)",https://yarg.readthedocs.org/,1
+1191,twython,"Actively maintained, pure Python wrapper for the     Twitter API. Supports both normal and streaming Twitter APIs",https://github.com/ryanmcgrath/twython/tree/master,1
+1194,requests-oauth,"Hook for adding Open Authentication support to Python-requests HTTP library.",http://github.com/maraujop/requests-oauth,1
+1195,smart-open,"Utils for streaming large files (S3, HDFS, GCS, gzip, bz2...)",https://github.com/piskvorky/smart_open,1
+1203,plotly,"An open-source, interactive graphing library for Python",https://plot.ly/python/,1
+1204,pattern,"Web mining module for Python.",http://www.clips.ua.ac.be/pages/pattern,1
+1207,visdom,"A tool for visualizing live, rich data for Torch and Numpy",https://github.com/facebookresearch/visdom,1
+1215,pytest-services,"Services plugin for pytest testing framework",https://github.com/pytest-dev/pytest-services,1
